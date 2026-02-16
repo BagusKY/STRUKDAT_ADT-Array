@@ -1,1 +1,0 @@
-# STRUKDAT_ADT-Array
